@@ -3,7 +3,6 @@
 /************************* WRITE HANDLE *************************/
 /**
  * handle_write_char - Prints a string
- * by Leonard and Peter
  * @c: char types.
  * @buffer: Buffer array to handle print
  * @flags:  Calculates active flags.
