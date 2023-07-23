@@ -3,7 +3,7 @@
 /****************** PRINT POINTER ******************/
 /**
  * print_pointer - Prints the value of a pointer variable
- * by Leonard Mbasela and Peter McMillan
+ * by Leonard Mbasela and Peter McMillan.
  * @types: List a of arguments
  * @buffer: Buffer array to handle print
  * @flags: Calculates active flags

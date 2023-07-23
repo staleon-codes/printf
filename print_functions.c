@@ -4,7 +4,7 @@
 
 /**
  * print_char - Prints a char
- * by Leonard Mbasela and Peter McMillan
+ * by Leonard Mbasela and Peter McMillan.
  * @types: List a of arguments
  * @buffer: Buffer array to handle print
  * @flags: Calculates active flags

@@ -2,7 +2,7 @@
 
 /**
  * is_printable - Evaluates if a char is printable
- * by Leonard Mbasela and Peter McMillan
+ * by Leonard Mbasela and Peter McMillan.
  * @c: Char to be evaluated.
  *
  * Return: 1 if c is printable, 0 otherwise
