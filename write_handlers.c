@@ -193,7 +193,3 @@ int write_unsgnd(int is_negative, int ind,
 
     return (write(1, &buffer[ind], length));
 }
-
-/**
- * write_pointer - Write a memory address.
- * @buffer: Array of characters
