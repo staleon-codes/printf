@@ -1,4 +1,4 @@
-#define UNUSED(x) (void)(x)
+#define UNUSED
 #include "main.h"
 
 /************************* WRITE HANDLE *************************/
